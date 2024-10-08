@@ -1,4 +1,5 @@
-// For GitHub, I put the code all in one file for ease of access
+// ATTENTION: This program will NOT run... I have not included the necessary image files
+// as this is mostly for viewing. Also, I put the code all in one main.cpp file for ease of access
 
 #include <iostream>
 #include <SFML/Graphics.hpp>
