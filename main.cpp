@@ -1,5 +1,5 @@
-// ATTENTION: This program will NOT run... I have not included the necessary image files
-// as this is mostly for viewing. Also, I put the code all in one main.cpp file for ease of access
+// ATTENTION: This program will NOT run if you download from here... I have not included the necessary image files
+// as this is only for viewing. Also, I put the code all in one main.cpp file for ease of access
 
 #include <iostream>
 #include <SFML/Graphics.hpp>
