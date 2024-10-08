@@ -1,3 +1,5 @@
+// For GitHub, I put the code all in one file for ease of access
+
 #include <iostream>
 #include <SFML/Graphics.hpp>
 #include <fstream>
